@@ -128,7 +128,7 @@
                 </div>
                 <div class="nav flex-column">
                     <a class="nav-link active" href="{{ route('dashboard') }}"><i class="fas fa-tachometer-alt me-2"></i><span>Tableau de bord</span></a>
-                    <a class="nav-link" href="{{ route('gestion.produit.index') }}"><i class="fas fa-box me-2"></i><span>Gestion des produits</span></a>
+                    <a class="nav-link" href="{{ route('gestion.produit.index') }}"><i class="fas fa-box me-2"></i><span>Management des Produits</span></a>
                     <a class="nav-link" href="{{ route('ingredients.index') }}"><i class="fas fa-carrot me-2"></i><span>Gestion des ingrédients</span></a>
                     <a class="nav-link" href="{{ route('categories.index') }}"><i class="fas fa-folder me-2"></i><span>Gestion des catégories</span></a>
                     <a class="nav-link" href="{{ route('promo_codes.index') }}"><i class="fas fa-tags me-2"></i><span>Code promo</span></a>
